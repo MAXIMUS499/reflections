@@ -21,6 +21,8 @@ Branches would be helpful when you want to change something globally and at the 
 
 How do the diagrams help you visualize the branch structure?
 
+Actually the diagrams didn't help me to visualize the branch structure. I mean - my own diagramm. The diagrams from the videos were quite helpful. Drawing a diagram can really help to understand the history of branching and commiting and a need to make some experimental branch for some feature.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

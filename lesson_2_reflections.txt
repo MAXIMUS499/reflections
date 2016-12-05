@@ -12,8 +12,12 @@ To be honest I still don't get the notion or the idead of staging area. The stag
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can use the staging area to make sure I have one commit per logical change so that I can use the command git diff to compare files in working directory with the same files in staging area, the command git dif --staged to compare files in St.Area with files in repository. So that can give understanding when I should to commit so there would a logical change. I mean - using the commands I can see all diffrences and therefore I can know it there was a logical change why I did a commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches would be helpful when you want to change something globally and at the same time you want to have the original version of the file/code. For example, you want to have another language version of your project, so you should create a new branch for the code. Or you want to add some experimental feature in your project and to show it to your friends.
 
 How do the diagrams help you visualize the branch structure?
 

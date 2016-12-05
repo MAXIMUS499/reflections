@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Well, it's simple. Using the command I can easily find the differences between the files.
+    Therefore I can just compare the files.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having easy access to the entire history of a file is a big advantage on my way to become efficient programmer in the long term because it gives me control over the file. I can change everything within the file, and having the access to the history of the file gives 
+    better options how I should change one thing or another in the file.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Well, pros are - better control, I can choose the name of a commit and therefore it will be an advantage for me in case over time I will want to change something within the file 
+    and I can easily find my commit. The system of manually named commits is much more flexible than Google docs. About the cons - I am not sure. Any tool has it's own pros and cons.
+    The matter is about the purpose of using a tool. In our case Git is better for our purposes than Google docs.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because both tools are designed for different functions.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    just typing these commands in terminal:
+    git log
+    git diff commit1 commit2
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It makes me more confident to make dangerous changes, because I can easily revert
+    previous state of the files. I can revert to last commits. If there is a bag -
+    I can easily find the commit with the bag and therefore I can change the bugged
+    commit.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try using Git for some projects, web-development.

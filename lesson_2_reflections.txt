@@ -1,0 +1,24 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+In the directory where I have initialized a repository appears new hidden directory .git,
+which contains all necessary files for git. I need to do it, because I would like to follow,
+control my code, all versions of the code.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+To be honest I still don't get the notion or the idead of staging area. The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. It’s sometimes referred to as the “index”, but it’s also common to refer to it as the staging area. It offers an important value - we store into the St.Area the files which we'd like to commit. So it's important for the whole idea of version control of our code.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?

@@ -26,5 +26,8 @@ Actually the diagrams didn't help me to visualize the branch structure. I mean -
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging two branches together is - for instance when two people are working on the same project and one of them made some new feature which wasn't planned to add into project in the beginning. So, later the programmer can just merge the main branch with the new feature's branch. 
+You represent is so - because it is easily for students to get, to understand the process of branching.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?

@@ -31,3 +31,5 @@ You represent is so - because it is easily for students to get, to understand th
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+The cons of Git's automatic merginga are: there can be conflicts between different branches in the same files. To be honest, I didn't really get the idea of cons and pros. I need to pass the lesson again, I think.
